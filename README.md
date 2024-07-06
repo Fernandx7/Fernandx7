@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Fernando 
-- 👀 I’m interested in programming sites
-- 🌱 I’m currently learning how to use HTML, CSS, Java Scritp and more. 
-- 💞️ I’m looking to collaborate on sites 
-- 📫 You can add me on WhatsApp, my number is +55 (21) 98917702
+- I'm learning about cyberSecurity to make pentests and be a professional.
+- I'm good in make web sistems
+ 
 
 <!---
 Fernandx7/Fernandx7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
